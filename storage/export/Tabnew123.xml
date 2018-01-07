@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tabnew123 class="table">
+    <columns>
+        <column class="column" intervalRegex="" isPrimary="false" type="int"/>
+    </columns>
+    <notes>
+        <note class="note">
+            <cell class="cell" column="column">123</cell>
+        </note>
+        <note class="note">
+            <cell class="cell" column="column">12</cell>
+        </note>
+        <note class="note">
+            <cell class="cell" column="column">6</cell>
+        </note>
+        <note class="note">
+            <cell class="cell" column="column">1</cell>
+        </note>
+    </notes>
+</Tabnew123>

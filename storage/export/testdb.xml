@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testdb class="database">
+    <credentials class="credentials">
+        <login/>
+        <password/>
+    </credentials>
+    <tables>
+        <tab class="table">
+            <columns>
+                <col1 class="column" intervalRegex="" isPrimary="true" type="int"/>
+                <col2 class="column" intervalRegex="" isPrimary="false" type="real"/>
+                <col3 class="column" intervalRegex="" isPrimary="false" type="char"/>
+                <col4 class="column" intervalRegex="" isPrimary="false" type="real"/>
+                <col5 class="column" intervalRegex="[a-z]" isPrimary="false" type="char_interval"/>
+            </columns>
+            <notes>
+                <note class="note">
+                    <cell class="cell" column="col1">13</cell>
+                    <cell class="cell" column="col2">34643.25</cell>
+                    <cell class="cell" column="col3">w</cell>
+                    <cell class="cell" column="col4">0.0</cell>
+                    <cell class="cell" column="col5">i</cell>
+                </note>
+                <note class="note">
+                    <cell class="cell" column="col1">1</cell>
+                    <cell class="cell" column="col2">2</cell>
+                    <cell class="cell" column="col3">w</cell>
+                    <cell class="cell" column="col4">4.52</cell>
+                    <cell class="cell" column="col5">i</cell>
+                </note>
+                <note class="note">
+                    <cell class="cell" column="col1">5</cell>
+                    <cell class="cell" column="col2">6.0002</cell>
+                    <cell class="cell" column="col3">c</cell>
+                    <cell class="cell" column="col4"/>
+                    <cell class="cell" column="col5">i</cell>
+                </note>
+                <note class="note">
+                    <cell class="cell" column="col1">27</cell>
+                    <cell class="cell" column="col2">72</cell>
+                    <cell class="cell" column="col3">f</cell>
+                    <cell class="cell" column="col4">2</cell>
+                    <cell class="cell" column="col5">i</cell>
+                </note>
+                <note class="note">
+                    <cell class="cell" column="col1">3</cell>
+                    <cell class="cell" column="col2">9.777</cell>
+                    <cell class="cell" column="col3">k</cell>
+                    <cell class="cell" column="col4">16.18</cell>
+                    <cell class="cell" column="col5">i</cell>
+                </note>
+            </notes>
+        </tab>
+    </tables>
+</testdb>
